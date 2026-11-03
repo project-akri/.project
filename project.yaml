@@ -8,7 +8,7 @@ slug: "akri"
 name: "Akri"
 description: "A Kubernetes Resource Interface for the Edge"
 type: "project"
-project_lead: "gauravgahlot" # TODO: AUTO-DETECTED — please verify
+project_lead: "lilustga"
 slack_channels: # TODO: AUTO-DETECTED — please verify the channel(s) below
   - name: "#akri"
     link: "https://kubernetes.slack.com/messages/C01D9L7QE8Z"
