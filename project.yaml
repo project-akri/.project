@@ -24,7 +24,7 @@ repositories:
 
 website: "https://docs.akri.sh"
 
-artwork: "https://landscape.cncf.io/logos/akri.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/akri"
 
 adopters:
   path: "https://github.com/project-akri/akri/blob/main/ADOPTERS.md"
